@@ -1,5 +1,5 @@
 export default {
-    languageName: "English",
+    languageName: "Arabic",
     checkEverySecond: "Check every {0} seconds",
     retryCheckEverySecond: "Retry every {0} seconds",
     retriesDescription: "Maximum retries before the service is marked as down and a notification is sent",
